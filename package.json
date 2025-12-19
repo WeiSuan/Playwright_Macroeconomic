@@ -1,0 +1,14 @@
+{
+  "name": "playwright-workspace",
+  "version": "1.0.0",
+  "description": "Simple Playwright script to open Google",
+  "main": "open-google.js",
+  "scripts": {
+    "start": "node open-google.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.57.0"
+  }
+}
